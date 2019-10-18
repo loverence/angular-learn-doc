@@ -4,6 +4,8 @@ npm install
 npm audit fix
 npm audit fix --force
 
+npm install -g npm 
+
 npm install -g @angular/cli
 ng v
 
