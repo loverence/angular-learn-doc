@@ -13,7 +13,7 @@ Create repository
 copy the url
 
 @ vscode ==> file-> preferences -> settings -> search for "git enabled", that should be checked.
-
+@ vscode ==> cntl+alt+p -> git clone -> set remote path and local path
 
 
 node -v
