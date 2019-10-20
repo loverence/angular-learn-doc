@@ -1,3 +1,21 @@
+git
+===
+
+https://git-scm.com/download/win
+
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+git --version (@ vscode)
+https://github.com/loverence/angular-official.git
+
+login into https://github.com/
+Create repository
+copy the url
+
+@ vscode ==> file-> preferences -> settings -> search for "git enabled", that should be checked.
+
+
+
 node -v
 npm -v
 npm install
