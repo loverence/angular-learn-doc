@@ -31,3 +31,13 @@ create folder
 navigate to that folder
 
 ng new my-app
+
+*** SSL setup ***
+at angular.json --> serve --> options --> add "ssl":true
+
+      "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "angular-official:build",
+            "ssl": true
+          },
