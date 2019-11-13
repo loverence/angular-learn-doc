@@ -41,3 +41,17 @@ at angular.json --> serve --> options --> add "ssl":true
             "browserTarget": "angular-official:build",
             "ssl": true
           },
+
+****
+typescript update
+
+ng --version
+tsc --version
+
+npm install -g --save-dev typescript@latest
+
+find the ts version number
+open package.json => search "typescript" ==> change the version
+run "npm install"
+
+
