@@ -54,4 +54,9 @@ find the ts version number
 open package.json => search "typescript" ==> change the version
 run "npm install"
 
+****
+angular ==> material 
+
+ng add @angular/material
+
 
