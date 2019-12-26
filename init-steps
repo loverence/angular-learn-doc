@@ -72,3 +72,10 @@ to update to latest ng version
 ng --version
 npm install --save-dev @angular/cli@latest
 ng --version
+
+*****
+to make it to work on IE 11:
+tsconfig.json ==> target: "es5"
+
+also, at policyfills.ts ==> follow the 1st step.
+*****
