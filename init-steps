@@ -15,6 +15,13 @@ copy the url
 @ vscode ==> file-> preferences -> settings -> search for "git enabled", that should be checked.
 @ vscode ==> cntl+alt+p -> git clone -> set remote path and local path
 
+*****
+to clone git, from some source:
+open terminal
+go to the root folder - where your project folder is going to be created
+git clone url
+(ex: git clone https://github.com/DeborahK/Angular-RxJS.git)
+*****
 
 node -v
 npm -v
