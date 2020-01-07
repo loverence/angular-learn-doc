@@ -79,3 +79,6 @@ tsconfig.json ==> target: "es5"
 
 also, at policyfills.ts ==> follow the 1st step.
 *****
+
+ng add @angular/material
+npm install --save hammerjs
